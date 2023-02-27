@@ -1,0 +1,13 @@
+# Yes, another blog
+
+Oh, how many times I've started a blog, only to delete it soon after? Five? Seven? Who can say? This is even my *second Hashnode* blog! I have a feeling, though, that this one might stick.
+
+At the time of this writing, I've been working as a consulting engineer at [Emmons & Olivier Resources, Inc.](https://eorinc.com) for going on 10 years. During that time, I've learned and utilized a great many tricks - some of my own devising - related to the storage, management, and visualization of data for all manner of purposes. Much of this wisdom has been documented in the company's internal Wiki site, which I inaugurated for that very purpose, and which has now become an invaluable reference for me.
+
+In the spring of 2024, I'll be leaving EOR to pursue a PhD in the [Department of Civil and Environmental Engineering](https://www.engr.colostate.edu/ce/) at Colorado State University. While EOR has been generous in allowing me the leeway to perform some research-y things, I hope that this change will allow me the time and license to release some of my pent-up academic curiosity. Perhaps I'll talk more about that at a later date.
+
+Back to the point: as you may already have guessed, the thought of losing access to the Wiki that I've poured so much time into over the last few years fills me with a kind of despair. So, mostly out of self-interest, but also recognizing the value that some of this gained wisdom could have if imparted to the world, I'm going to attempt to take some of that content and gussy it up for public consumption. I hope you find it as useful as I have.
+
+So there's the impetus. Now, the reason I think this blog might actually stick around this time is simple: going back to the academic world from the consulting world is going to feel *slow*. I know, because I've been there. Don't get me wrong, consulting has been a fantastic experience in many ways - above all, it's a fast and furious way to learn practical skills and actually *do something* - but it's also been grueling at times. I think academia will be a nice change of pace, even if (when?) I end up tiring of it again. This slower pace will, I hope, allow me the time to write more (beyond the obvious required writing) but, more importantly, it will allow me to do so without the guilt of the ticking clock of time-keeping in the back of my mind.
+
+Yes, in fact, the clock is ticking as I write, an ever-present reminder of all the things I have to do. So until next time...
