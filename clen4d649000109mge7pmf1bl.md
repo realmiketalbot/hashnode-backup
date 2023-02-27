@@ -2,7 +2,7 @@
 
 Oh, how many times I've started a blog, only to delete it soon after? Five? Seven? Who can say? This is even my *second Hashnode* blog! I have a feeling, though, that this one might stick.
 
-At the time of this writing, I've been working as a consulting engineer at [Emmons & Olivier Resources, Inc.](https://eorinc.com) for going on 10 years. During that time, I've learned and utilized a great many tricks - some of my own devising - related to the storage, management, and visualization of data for all manner of purposes. Much of this wisdom has been documented in the company's internal Wiki site, which I inaugurated for that very purpose, and which has now become an invaluable reference for me.
+At the time of this writing, I've been working as a consulting engineer at [Emmons & Olivier Resources, Inc.](https://eorinc.com) for going on 10 years. During that time, I've learned and utilized a great many tricks - some of my own devising - related to the storage, management, and visualization of data for all manner of purposes. Much of this wisdom has been documented in the company's internal Wiki site, which I inaugurated for that very purpose, and which has now become an invaluable reference, not just for me but for the company as a whole.
 
 In the spring of 2024, I'll be leaving EOR to pursue a PhD in the [Department of Civil and Environmental Engineering](https://www.engr.colostate.edu/ce/) at Colorado State University. While EOR has been generous in allowing me the leeway to perform some research-y things, I hope that this change will allow me the time and license to release some of my pent-up academic curiosity. Perhaps I'll talk more about that at a later date.
 
