@@ -1,6 +1,6 @@
 # Using SAGA GIS with QGIS
 
-There is a question I see a lot over on StackExchange and elsewhere, in many forms and variations:
+There is a question I've seen a lot over the past couple of years on StackExchange, GitHub, and elsewhere. It comes in many forms and variations, but the crux of it is this:
 
 > Why can't I get SAGA to work with QGIS?
 
