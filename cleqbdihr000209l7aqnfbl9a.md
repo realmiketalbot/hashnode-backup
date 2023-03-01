@@ -8,7 +8,7 @@ Well, dear reader, I'm here to tell you that there's an easy solution.
 
 ## What is SAGA?
 
-If you want the whole story, I'm going send you [over to Wikipedia](https://en.wikipedia.org/wiki/SAGA_GIS) for that one. The short story is this: [SAGA](https://saga-gis.sourceforge.io/en/index.html) - short for *System for Automated Geoscientific Analysis* \- is a set of FOSS GIS tools that have been around for quite a while. There are some pretty great tools included - both for vector and raster processing - including a suite of Hydrology tools that I've used quite frequently over the years.
+If you want the whole story, I'm going send you [over to Wikipedia](https://en.wikipedia.org/wiki/SAGA_GIS) for that one. The short story is this: [SAGA](https://saga-gis.sourceforge.io/en/index.html) - short for *System for Automated Geoscientific Analysis* - is a set of FOSS GIS tools that have been around for quite a while. There are some pretty great tools included - both for vector and raster processing - including a suite of Hydrology tools that I've used quite frequently over the years.
 
 ## What is QGIS?
 
@@ -22,7 +22,7 @@ Installing SAGA is pretty straightforward. Head to the [downloads page](https://
 choco install saga-gis --version=7.2.0
 ```
 
-If you're running Linux, I'll just assume you're clever enough to figure this out. And if you're using a Mac, may god have mercy on your soul. Just kidding 😉 seriously though, I can't help you there. Google it? Does Apple have a search engine...? Anyway...
+For the record, I use Ubuntu most of the time, but I've spent enough time doing IT work to know my audience. If you're running any flavor of Linux, I'll just assume you're clever enough to figure this out. And if you're using a Mac, may god have mercy on your soul. Just kidding 😉 Seriously though, I can't help you. Google it? Does Apple have a search engine...? Anyway...
 
 ## Setting up the SAGA QGIS Plugin
 
