@@ -1,6 +1,6 @@
 # Presenting: Databasin'
 
-I don't how many times I've started a blog, only to delete it soon after. At least half a dozen times, probably more. This is even my *second Hashnode* blog! It's just always so daunting, and I'm always too busy and *way* too self-conscious. There are so many other better writers out there - why would anyone spend their time reading my mind-numbing dribble? I have a feeling, though, that this one might stick.
+I don't how many times I've started a blog, only to delete it soon after. At least half a dozen times, probably more. This is even my *second Hashnode* blog! It's just always so daunting, and I'm always too busy and *way* too self-conscious. There are so many other better writers out there - why would anyone spend their time reading my mind-numbing drivel? I have a feeling, though, that this one might stick.
 
 At the time of this writing, I've been working as a consulting engineer at [Emmons & Olivier Resources, Inc.](https://eorinc.com) (EOR) for going on 10 years. During that time, I've learned and utilized a great many tricks - some of my own devising - related to the storage, management, and visualization of data for all manner of purposes. Much of this wisdom has been documented in the company's internal Wiki site, which I inaugurated for that very purpose, and which has now become an invaluable reference, not just for me but for the company as a whole.
 
