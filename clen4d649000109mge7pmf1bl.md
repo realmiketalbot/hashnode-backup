@@ -1,4 +1,4 @@
-# A new personal knowledge base
+# Databasin'
 
 I don't how many times I've started a blog, only to delete it soon after. At least half a dozen times, probably more. This is even my *second Hashnode* blog! I have a feeling, though, that this one might stick.
 
