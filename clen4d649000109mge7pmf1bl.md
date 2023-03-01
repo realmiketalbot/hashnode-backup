@@ -10,6 +10,6 @@ As you may already have guessed, the thought of losing access to the Wiki that I
 
 So, there's the impetus. Now, the reason I think this blog might actually stick around this time is simple: going back to the academic world from the consulting world is going to feel *slow*. I know, because I've been there. Don't get me wrong, consulting has been a fantastic experience in many ways - above all, it's a fast and furious way to learn practical skills and actually *do something* - but it's also grueling... more often than not. I think academia will be a nice change of pace, even if a temporary one. This slower pace will, I hope, allow me the time to write more (beyond what's required, of course) but, more importantly, it will allow me to do so without the guilt of the ticking clock of time-keeping in the back of my mind.
 
-The name *Databasin'* came straight from our mutual friend, ChatGPT. There will certainly be some database talk, don't you worry about that, but also don't expect it exclusively. I just like the name, and I refuse to change it. Regardless, if your interests overlap with mine (see my bio), feel free to sign up for my newsletter.
+The name *Databasin'* came straight from our mutual friend, ChatGPT. There will certainly be some database talk, don't you worry about that sort of thing, *Cronenberg Reader*, but also don't expect it exclusively. I just like the name, and I refuse to change it. Regardless, if your interests overlap with mine (see my bio), feel free to sign up for my newsletter.
 
 Thanks for dropping by.
