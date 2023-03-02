@@ -22,7 +22,7 @@ Installing SAGA is pretty straightforward. Head to the [downloads page](https://
 choco install saga-gis --version=7.2.0
 ```
 
-For the record, I use Ubuntu most of the time, but I've spent enough time doing IT work to know my audience. If you're running any flavor of Linux, I'll just assume you're clever enough to figure this out. And if you're using a Mac, may god have mercy on your soul. Just kidding 😉 Seriously though, I can't help you. Google it? Does Apple have a search engine...? Anyway...
+For the record, I use Ubuntu most of the time, but I've spent enough time doing IT work to know my audience. If you're running any flavor of Linux, I'll just assume you're clever enough to figure this out. And if you're using a Mac, may god have mercy on your soul. Just kidding 😉 Seriously though, I'm simply not cool enough to be able to help you. Don't hold it against me.
 
 ## Setting up the SAGA QGIS Plugin
 
